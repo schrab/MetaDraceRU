@@ -2,6 +2,8 @@
 description: >-
   MetaDrace — это виртуальная NFT вселенная собачьих бегов, основанная на
   блокчейне и использующая токен $DRACE.
+cover: .gitbook/assets/banner 2.png
+coverY: 0
 ---
 
 # Что такое MetaDrace?
